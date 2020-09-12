@@ -2,8 +2,7 @@
 A Shell 
 Lab 3 Shell Implementation- README
 Charlo Zhu, 
-zhu761@purdue.edu, 
-PUID: 0030751819
+zhu761@purdue.edu
 
 The goal of this project is to build a shell interpreter similar to bash and csh under Linux system. 
 
